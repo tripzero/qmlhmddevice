@@ -1,0 +1,3 @@
+module openhmd
+plugin hmddevice
+typeinfo hmddevice.types
